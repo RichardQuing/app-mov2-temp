@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={{ fontSize:50}}>APLICACIÓN</Text>
+      <Text style={styles.container}>Veronica Zamrano</Text>
 
       <StatusBar style="auto" />
     </View>
