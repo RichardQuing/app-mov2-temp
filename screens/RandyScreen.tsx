@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function WelcomeScreen() {
+const RandyScreen = () => {
   return (
     <View>
-      <Text>WelcomeScreen</Text>
-      <text.style= {(fontSize 50)}> APLICACION</text>
-      <Text> RANDY </Text>
+      <Text>RandyScreen</Text>
     </View>
   )
 }
+
+export default RandyScreen
 
 const styles = StyleSheet.create({})
